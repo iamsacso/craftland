@@ -46,4 +46,10 @@ body {
   .links a:hover {
     background-color: #555;
   }
+
+  .logo {
+    width: 120px;   /* desired width */
+    height: auto;   /* maintain aspect ratio */
+  }
+  
   
