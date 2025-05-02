@@ -1,0 +1,81 @@
+.content{
+    height: 767px;
+    position: relative;
+}
+
+.social-widget{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.social-widget a{
+    display: block;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    display: inline-block;
+}
+.social-button{
+    width: 300px;
+    height: auto;
+    padding: 10px;
+    letter-spacing: 1px;
+    margin: 5px;
+    border: solid;
+    border-radius: 10px;
+    border-color: #102d58;
+}
+
+.allcode{
+    background-color: #535353;
+}
+.youtube{
+    background-color: #cd201f;
+}
+.instagram{
+    background-color: #e4405f;
+}
+.telegram{
+    background-color: #0072a7;
+}
+.group{
+    background-color: #0072a7;
+}
+.whatsapp{
+    background-color: #29bb30;
+}
+.discord{
+    background-color: #3e71dd;
+}
+
+.social-widget a ul li{
+    color: rgb(255, 255, 255);
+}
+
+.social-text{
+    width: 150px;
+    border-left: 1px solid rgba(255,255,255,0.5);
+    border-right: 1px solid rgba(255,255,255,0.5);
+    padding: 10px;
+}
+
+.right-text{
+    width: 75px;
+    padding-left: 5px;
+    font-size: 12px;
+}
+.fa{
+    color: aliceblue;
+    text-align: center;
+    width: 30px;
+}
+.social-button:hover{
+    background-color: #000000;
+    transition: 0.5s;
+}
+
