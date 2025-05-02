@@ -1,4 +1,4 @@
 function showMessage() {
-    alert("Hello from external JS file!");
+    alert("Map Code Copied!");
   }
   
