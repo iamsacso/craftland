@@ -48,7 +48,7 @@ body {
   }
 
   .logo {
-    width: 120px;   /* desired width */
+    width: 100px;   /* desired width */
     height: auto;   /* maintain aspect ratio */
   }
   
