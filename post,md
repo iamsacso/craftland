@@ -1,0 +1,35 @@
+<!-- post 1 -->
+
+    <div class="mapss">
+         <div class="map-post">
+            <div class="head">
+               <div class="name">
+                  <div class="mapname">
+                     <a href="#"><img src="profile-img" class="avatars" alt="profile"></a>
+                     <div class="q">
+                        <h4>Map Name</h4>
+                        <p>DD/MM/YYYY</p>
+                     </div>
+                    </div>
+                </div>
+                     <div class="mapcode">
+                        <button onclick="copyCode('#FREEFIREBC-MAPCODE')" id="one">India map code<img src="image/copy1.png" alt="" width="15px"></button>
+                        <!-- <button id="two">Other<img src="image/copy1.png" alt="" width="15px"></button> -->
+                        <!-- <button id="three">Brazil</button>
+                        <button id="four">N.America</button> -->
+                     </div>
+          </div>
+                  
+         <div class="body">
+                     <p>Map Description</p>
+                     <img class="mapimage" src="map-image" alt="">
+                     <div class="bottom">
+                        <div class="bleft">
+                           <a href="video-link" target="_blank">Video</a>
+                           <!-- <a href="#">Tutorial</a>
+                           <a href="#">Map File</a>
+                           <a href="#">Others</a> -->
+                        </div>
+                     </div>
+                  </div>
+     </div>
