@@ -88,3 +88,6 @@
     color: rgb(255, 255, 255);
     border-radius: 10px;
 }
+.playerName {
+    font-weight: bold;
+}

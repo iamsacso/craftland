@@ -5,7 +5,7 @@
             <div class="head">
                <div class="name">
                   <div class="mapname">
-                     <a href="youtube-channel-link"><img src="profile-img" class="avatars" alt="profile"></a>
+                     <a href="youtube-channel-link" target="_blank"><img src="profile-img" class="avatars" alt="profile"></a>
                      <div class="q">
                         <h4>Map Name</h4>
                         <p>DD/MM/YYYY</p>
