@@ -13,14 +13,15 @@
                     </div>
                 </div>
                      <div class="mapcode">
-                        <button onclick="copyCode('#FREEFIREBC-MAPCODE')" id="one">India map code<img src="image/copy1.png" alt="" width="15px"></button>
-                        <!-- <button id="two">Other<img src="image/copy1.png" alt="" width="15px"></button> -->
+                        <button onclick="copyCode('#FREEFIREBC-MAPCODE')" id="one">&#x1F1EE;&#x1F1F3;Code<img src="image/copy1.png" alt="" width="15px"></button>
+                        <!-- <button id="two">🌍Other<img src="image/copy1.png" alt="" width="15px"></button> -->
                         <!-- <button id="three">Brazil</button>
                         <button id="four">N.America</button> -->
                      </div>
           </div>
                   
          <div class="body">
+            <p class="playerName">by Name</p>
                      <p>Map Description</p>
                      <img class="mapimage" src="map-image" alt="">
                      <div class="bottom">
