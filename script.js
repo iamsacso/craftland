@@ -18,8 +18,6 @@ function copyCode(code) {
     const container = document.getElementById("mapsContainer");
 
     const postHTML = `
-    <!-- post 1 -->
-
     <div class="mapss">
          <div class="map-post">
             <div class="head">
@@ -52,8 +50,6 @@ function copyCode(code) {
                      </div>
                   </div>
      </div>
-   
-    <!-- map post End -->
     `;
 
     container.innerHTML += postHTML;
