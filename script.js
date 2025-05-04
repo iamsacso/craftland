@@ -76,7 +76,7 @@ createMapPost({
   imageUrl: "image/allinone.webp",
   youtubeLink: "https://youtu.be/Sc2LCsblfgg",
   mapCode1: "#FREEFIREBC3C61F91526508CB1E9511197351A569672",
-  mapCode2: "Not Avialable",
+  mapCode2: "Not Available",
   profileImg: "image/SACSO.png",
   profileLink: "https://youtube.com/@iamsacso"
 });
