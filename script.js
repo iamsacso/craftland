@@ -56,6 +56,19 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Teamwork Trial 2",
+   date: "10 May 2025",
+   playerName: "Ravi Editx",
+   description: "Puzzle Game for 2 Players",
+   imageUrl: "image/teamwork2.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE95A254E7A6F4AC807AF509D02708481C5979",
+   mapCode2: "#FREEFIREDD8D8B7DB683E78798C4507376C122587938",
+   profileImg: "image/ravieditx.png",
+   profileLink: "https://www.youtube.com/@ravieditx"
+ });
+
+createMapPost({
   mapName: "Relax Quest",
   date: "3 May 2025",
   playerName: "Thunder Sharma",
