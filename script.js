@@ -61,7 +61,7 @@ createMapPost({
    playerName: "Ravi Editx",
    description: "Puzzle Game for 2 Players",
    imageUrl: "image/teamwork2.jpg",
-   youtubeLink: "videoLink",
+   youtubeLink: "https://youtu.be/x2htqgeGA7g",
    mapCode1: "#FREEFIRE95A254E7A6F4AC807AF509D02708481C5979",
    mapCode2: "#FREEFIREDD8D8B7DB683E78798C4507376C122587938",
    profileImg: "image/ravieditx.png",
