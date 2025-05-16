@@ -93,3 +93,19 @@ createMapPost({
   profileImg: "image/SACSO.png",
   profileLink: "https://youtube.com/@iamsacso"
 });
+
+function filterMaps() {
+  const input = document.getElementById("searchInput").value.toLowerCase();
+  const posts = document.querySelectorAll(".map-post");
+
+  posts.forEach(post => {
+    const mapName = post.querySelector("h4").textContent.toLowerCase();
+    const description = post.querySelector(".body p:nth-of-type(2)").textContent.toLowerCase(); // 2nd <p> tag is description
+
+    if (mapName.includes(input) || description.includes(input)) {
+      post.parentElement.style.display = "block";
+    } else {
+      post.parentElement.style.display = "none";
+    }
+  });
+}
