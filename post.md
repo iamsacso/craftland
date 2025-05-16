@@ -10,3 +10,15 @@ createMapPost({
    profileImg: "logoImage",
    profileLink: "https://youtube.com/@username"
  });
+
+ createAssetPost({
+   assetName: "assetName",
+   date: "Date",
+   playerName: "pName",
+   description: "Asset Description",
+   imageUrl: "image",
+   assetCode: "Asset Code",
+   mapCode2: "Not available",
+   profileImg: "logoImg",
+   profileLink: "https://youtube.com/@username"
+ });
