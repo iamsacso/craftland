@@ -56,6 +56,32 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "2v2 SACSO",
+   date: "16 May 2025",
+   playerName: "SacSo",
+   description: "2v2 fair gameplay, all rare outfit, gun skin, emote & more",
+   imageUrl: "image/1v12v2.jpg",
+   youtubeLink: "https://youtu.be/lFmlxv7sZjU",
+   mapCode1: "#FREEFIREF4DDC456AEFBB9E06C5075491B5369FE9672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
+   mapName: "1v1 PRINCE",
+   date: "16 May 2025",
+   playerName: "PR1NCE",
+   description: "1v1 fair gameplay, all rare outfit, gun skin, emote & more",
+   imageUrl: "image/1v12v2.jpg",
+   youtubeLink: "https://youtu.be/lFmlxv7sZjU",
+   mapCode1: "#FREEFIRE91A83E318545DFF29DA6436DBD7F11DA2474",
+   mapCode2: "Not available",
+   profileImg: "image/prince.png",
+   profileLink: "https://youtube.com/@ThePrinceGamer"
+ });
+
+createMapPost({
    mapName: "Teamwork Trial 2",
    date: "10 May 2025",
    playerName: "Ravi Editx",
@@ -100,9 +126,10 @@ function filterMaps() {
 
   posts.forEach(post => {
     const mapName = post.querySelector("h4").textContent.toLowerCase();
-    const description = post.querySelector(".body p:nth-of-type(2)").textContent.toLowerCase(); // 2nd <p> tag is description
+    const description = post.querySelector(".body p:nth-of-type(2)").textContent.toLowerCase(); // description
+    const playerName = post.querySelector(".playerName").textContent.toLowerCase(); // player name
 
-    if (mapName.includes(input) || description.includes(input)) {
+    if (mapName.includes(input) || description.includes(input) || playerName.includes(input)) {
       post.parentElement.style.display = "block";
     } else {
       post.parentElement.style.display = "none";
