@@ -61,7 +61,7 @@ createMapPost({
    playerName: "SacSo",
    description: "2v2 fair gameplay, all rare outfit, gun skin, emote & more",
    imageUrl: "image/2v2sacso.jpg",
-   youtubeLink: "https://youtu.be/lFmlxv7sZjU",
+   youtubeLink: "https://youtu.be/B9o5Qq9QnnI",
    mapCode1: "#FREEFIREF4DDC456AEFBB9E06C5075491B5369FE9672",
    mapCode2: "Not available",
    profileImg: "image/SACSO.png",
