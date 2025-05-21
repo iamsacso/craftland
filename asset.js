@@ -67,6 +67,18 @@ function copyCode(code) {
 }
 
  createAssetPost({
+   assetName: "Krishna",
+   date: "21 May 2025",
+   playerName: "SacSo",
+   description: "Krishna Bhagwan",
+   imageUrl: "image/krishna.jpg",
+   assetCode: "#ASSETE4BC4DF6EC9347BBA6AEAEC4C32ED9199672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createAssetPost({
    assetName: "House 1",
    date: "21 May 2025",
    playerName: "SacSo",
