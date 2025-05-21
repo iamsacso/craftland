@@ -71,7 +71,7 @@ createMapPost({
 createMapPost({
    mapName: "1v1 PRINCE",
    date: "16 May 2025",
-   playerName: "PR1NCE",
+   playerName: "The Prince Gamer",
    description: "1v1 fair gameplay, all rare outfit, gun skin, emote & more",
    imageUrl: "image/1v12v2.jpg",
    youtubeLink: "https://youtu.be/lFmlxv7sZjU",
