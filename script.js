@@ -64,7 +64,7 @@ createMapPost({
    youtubeLink: "https://youtu.be/RnSdAvSefyk",
    mapCode1: "#FREEFIRE239990747614A05912A96BA2274B00FE2959",
    mapCode2: "Not available",
-   profileImg: "Image/cyberpritam.png",
+   profileImg: "image/cyberpritam.png",
    profileLink: "https://youtube.com/@cyber_pritam"
  });
 
@@ -77,7 +77,7 @@ createMapPost({
    youtubeLink: "https://youtu.be/RnSdAvSefyk",
    mapCode1: "#FREEFIRE12897774E703B9685D9ECE900F15B1759672",
    mapCode2: "Not available",
-   profileImg: "Image/SACSO.png",
+   profileImg: "image/SACSO.png",
    profileLink: "https://youtube.com/@iamsacso"
  });
 
@@ -90,7 +90,7 @@ createMapPost({
    youtubeLink: "https://youtu.be/RnSdAvSefyk",
    mapCode1: "#FREEFIRE24C7C79D849F74F111E6B0901455E9025262",
    mapCode2: "Not available",
-   profileImg: "Image/vipgamer.png",
+   profileImg: "image/vipgamer.png",
    profileLink: "https://youtube.com/@SHARMAGAMING29"
  });
 

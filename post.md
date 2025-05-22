@@ -7,7 +7,7 @@ createMapPost({
    youtubeLink: "videoLink",
    mapCode1: "IndCode",
    mapCode2: "OthrCode",
-   profileImg: "Image/.png",
+   profileImg: "image/.png",
    profileLink: "https://youtube.com/@username"
  });
 
@@ -19,6 +19,6 @@ createMapPost({
    imageUrl: "image/.jpg",
    assetCode: "Asset Code",
    mapCode2: "Not available",
-   profileImg: "Image/.png",
+   profileImg: "image/.png",
    profileLink: "https://youtube.com/@username"
  });
