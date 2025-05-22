@@ -56,10 +56,62 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Craft-X Park Duo",
+   date: "22 May 2025",
+   playerName: "cyber_pritam",
+   description: "2 Player, Water Kingdom winners map",
+   imageUrl: "image/craftxpark.jpg",
+   youtubeLink: "https://youtu.be/RnSdAvSefyk",
+   mapCode1: "#FREEFIRE239990747614A05912A96BA2274B00FE2959",
+   mapCode2: "Not available",
+   profileImg: "Image/cyberpritam.png",
+   profileLink: "https://youtube.com/@cyber_pritam"
+ });
+
+ createMapPost({
+   mapName: "Water Kingdom",
+   date: "22 May 2025",
+   playerName: "SacSo",
+   description: "2 Player, Water Kingdom winners map",
+   imageUrl: "image/sacsowaterpark.jpg",
+   youtubeLink: "https://youtu.be/RnSdAvSefyk",
+   mapCode1: "#FREEFIRE12897774E703B9685D9ECE900F15B1759672",
+   mapCode2: "Not available",
+   profileImg: "Image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
+   mapName: "Pirates Island",
+   date: "22 May 2025",
+   playerName: "VIP Gamer",
+   description: "2 Player, Water Kingdom winners map",
+   imageUrl: "image/pirateisland.jpg",
+   youtubeLink: "https://youtu.be/RnSdAvSefyk",
+   mapCode1: "#FREEFIRE24C7C79D849F74F111E6B0901455E9025262",
+   mapCode2: "Not available",
+   profileImg: "Image/vipgamer.png",
+   profileLink: "https://youtube.com/@SHARMAGAMING29"
+ });
+
+ createMapPost({
    mapName: "Ultimate Water Island",
    date: "22 May 2025",
    playerName: "Guide Gamer",
-   description: "Boat race, block jump and melee weapon fight",
+   description: "2 Player, Boat race, block jump and melee weapon fight",
+   imageUrl: "image/waterguide.jpg",
+   youtubeLink: "https://youtu.be/cCnnQUMIsco",
+   mapCode1: "#FREEFIRE9BB5ABACE868981999719350FF283B383512",
+   mapCode2: "Not available",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+createMapPost({
+   mapName: "Ultimate Water Island",
+   date: "22 May 2025",
+   playerName: "Guide Gamer",
+   description: "4 Player, Boat race, block jump and melee weapon fight",
    imageUrl: "image/waterguide.jpg",
    youtubeLink: "https://youtu.be/cCnnQUMIsco",
    mapCode1: "#FREEFIRE448678A2A0C4BCF4F98F436F8C3722A23512",
