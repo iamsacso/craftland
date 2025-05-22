@@ -56,6 +56,19 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Ultimate Water Island",
+   date: "22 May 2025",
+   playerName: "Guide Gamer",
+   description: "Boat race, block jump and melee weapon fight",
+   imageUrl: "image/waterguide.jpg",
+   youtubeLink: "https://youtu.be/cCnnQUMIsco",
+   mapCode1: "#FREEFIRE448678A2A0C4BCF4F98F436F8C3722A23512",
+   mapCode2: "Not available",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+createMapPost({
    mapName: "2v2 SACSO",
    date: "16 May 2025",
    playerName: "SacSo",

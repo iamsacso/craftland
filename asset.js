@@ -66,8 +66,21 @@ function copyCode(code) {
   });
 }
 
+//  createAssetPost({
+//    assetName: "Cyber Helicopter",
+//    date: "21 May 2025",
+//    playerName: "cyber_pritam",
+//    description: "Futurictic Helicopter",
+//    imageUrl: "image/cyberhelicopter.jpg",
+//    assetCode: "",
+//    mapCode2: "Not available",
+//    profileImg: "image/pritam.png",
+//    profileLink: "https://youtube.com/@cyberpritam"
+//  });
+
+
  createAssetPost({
-   assetName: "Krishna",
+   assetName: "Shri Krishna",
    date: "21 May 2025",
    playerName: "SacSo",
    description: "Krishna Bhagwan",
@@ -103,7 +116,7 @@ function copyCode(code) {
  });
 
  createAssetPost({
-   assetName: "Coin",
+   assetName: "3D Coin",
    date: "21 May 2025",
    playerName: "SacSo",
    description: "Clamable Coin",
