@@ -3,11 +3,11 @@ createMapPost({
    date: "Date",
    playerName: "pName",
    description: "Description",
-   imageUrl: "image",
+   imageUrl: "image/.jpg",
    youtubeLink: "videoLink",
    mapCode1: "IndCode",
    mapCode2: "OthrCode",
-   profileImg: "logoImage",
+   profileImg: "Image/.png",
    profileLink: "https://youtube.com/@username"
  });
 
@@ -16,9 +16,9 @@ createMapPost({
    date: "Date",
    playerName: "pName",
    description: "Asset Description",
-   imageUrl: "image",
+   imageUrl: "image/.jpg",
    assetCode: "Asset Code",
    mapCode2: "Not available",
-   profileImg: "logoImg",
+   profileImg: "Image/.png",
    profileLink: "https://youtube.com/@username"
  });
