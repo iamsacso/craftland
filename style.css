@@ -73,3 +73,7 @@
   align-items: center;     /* vertical center */
   text-align: center;
 }
+
+footer {
+    text-align: center;
+}
