@@ -108,6 +108,19 @@ createMapPost({
  });
 
  createMapPost({
+   mapName: "Solara",
+   date: "24 May 2025",
+   playerName: "SacSo",
+   description: "4 Player Solara, creator mode for solara",
+   imageUrl: "image/sc4.jpg",
+   youtubeLink: "not available",
+   mapCode1: "#FREEFIRE893ECB3EE98F4E35E9FBA5C0809E46BD9672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createMapPost({
    mapName: "Beastmode Nexterra",
    date: "24 May 2025",
    playerName: "Guide Gamer",
