@@ -56,6 +56,110 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Beastmode Bermuda",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/bb1.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIRE2B0AB26301D114904489B3ADE33A4BEC1028",
+   mapCode2: "#FREEFIRE626CA7F5425ED335266595C1F22885446248",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+ createMapPost({
+   mapName: "Beastmode Bermuda",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/bb2.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIREEEE65B538370661C724771B5EA8E3CCE1028",
+   mapCode2: "#FREEFIRE8527E22B990AB8C80859F16331B4F76E6248",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+ createMapPost({
+   mapName: "Beastmode Bermuda",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/bb4.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIRE35B2644BCC485CC685F41304C2E980F21028",
+   mapCode2: "#FREEFIRED4C0D3ED65E6B5E9D476DBABFC2B78936248",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+ createMapPost({
+   mapName: "Beastmode Bermuda",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/bb8.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIREFF8765C68BB5E9181574043A7B58BEC91028",
+   mapCode2: "not avaliable",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+ createMapPost({
+   mapName: "Beastmode Nexterra",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/nb2.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIREDED528052C6F0098DD421F039E680F3E5293",
+   mapCode2: "#FREEFIREE77D52A20E8C47B0C3E758CAC22CE8371956",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+ createMapPost({
+   mapName: "Beastmode Nexterra",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/nb4.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIRE4FB98548E27F99857A197F82DFE5D5D15293",
+   mapCode2: "#FREEFIRE281766F6302BFB71E6E01590CC7567AB1956",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+ createMapPost({
+   mapName: "Beastmode Kalahari",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/kab2.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIRE2182723F7ACD0F452B0923DAADA431BD5293",
+   mapCode2: "#FREEFIRECE8FB9DA86000F6FF76296206BA14F4C1956",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+createMapPost({
+   mapName: "Beastmode Kalahari",
+   date: "24 May 2025",
+   playerName: "Guide Gamer",
+   description: "All in one map player map, write code, gunskin, outfit bundle, emote, creator mode",
+   imageUrl: "image/kab4.jpg",
+   youtubeLink: "https://youtu.be/Mm00W4c12_E",
+   mapCode1: "#FREEFIRE8B075000C1FBF186EDC8EC3B5A00BF485293",
+   mapCode2: "#FREEFIREF3B0C555D621B909F030D4FD26D849551956",
+   profileImg: "image/guidegamer.png",
+   profileLink: "https://youtube.com/@Guidegamer016"
+ });
+
+createMapPost({
    mapName: "Craft-X Park Duo",
    date: "22 May 2025",
    playerName: "cyber_pritam",
