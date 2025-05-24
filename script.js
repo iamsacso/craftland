@@ -59,7 +59,7 @@ createMapPost({
    mapName: "Beastmode Bermuda",
    date: "24 May 2025",
    playerName: "Guide Gamer",
-   description: "All in one map single player Bermuda map, write code, gunskin, outfit bundle, emote, creator mode",
+   description: "All in one map singal 1 player Bermuda map, write code, gunskin, outfit bundle, emote, creator mode",
    imageUrl: "image/bb1.jpg",
    youtubeLink: "https://youtu.be/Mm00W4c12_E",
    mapCode1: "#FREEFIRE2B0AB26301D114904489B3ADE33A4BEC1028",
