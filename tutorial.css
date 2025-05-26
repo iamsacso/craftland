@@ -93,3 +93,9 @@
 .playerName {
     font-weight: bold;
 }
+
+#searchInput{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
