@@ -12,9 +12,9 @@
 }
 
 .map-post{
-    width: 285px;
+    width: 290px;
     height: auto;
-    padding: 15px;
+    padding: 10px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -60,6 +60,7 @@
 .q p{
     color: rgb(119, 119, 119);
     text-align: left;
+    font-size: small;
 }
 .mapcode button{
     margin-left: 5px;
