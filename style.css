@@ -17,6 +17,8 @@
     align-items: center;
     text-align: center;
     justify-content: center;
+    padding-bottom: 0px;
+    border-bottom-width: 0px;
 }
 
 .header a{

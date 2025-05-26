@@ -31,8 +31,8 @@ function copyCode(code) {
                     </div>
                 </div>
                     <div class="mapcode">
-                        <button onclick="copyCode('${mapCode1}')" id="one">🇮🇳 Code</button>
-                        <button onclick="copyCode('${mapCode2}')" id="two">Other Code</button>
+                        <button onclick="copyCode('${mapCode1}')" id="one">🇮🇳 Code<img src="image/copy1.png" alt="" width="15px"></button>
+                        <button onclick="copyCode('${mapCode2}')" id="two">Other Code<img src="image/copy1.png" alt="" width="15px"></button>
                         </div>
           </div>
           
