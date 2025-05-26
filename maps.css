@@ -12,12 +12,15 @@
 }
 
 .map-post{
-    width: auto;
+    width: 285px;
     height: auto;
     padding: 15px;
-    margin: 15px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     display: block;
     border-bottom: solid;
+    border-color: rgb(6, 69, 99);
     border-radius: 10px;
     background: rgb(228, 235, 235);
 }
@@ -90,4 +93,10 @@
 }
 .playerName {
     font-weight: bold;
+}
+
+#searchInput{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
 }

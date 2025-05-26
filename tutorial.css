@@ -12,10 +12,12 @@
 }
 
 .map-post{
-    width: auto;
+    width: 280px;
     height: auto;
     padding: 15px;
-    margin: 15px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     display: block;
     border-bottom: solid;
     border-radius: 10px;

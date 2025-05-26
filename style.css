@@ -6,7 +6,7 @@
 }
 
 .header{
-    background: linear-gradient(rgb(24, 170, 255), rgb(255, 255, 255));
+    background: linear-gradient(rgb(0, 119, 255), rgb(255, 255, 255));
     padding: 10px;
     border-bottom: solid;
     border-color: rgb(255, 255, 255);

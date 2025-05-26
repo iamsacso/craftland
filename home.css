@@ -27,27 +27,28 @@ li{
     letter-spacing: 1px;
     margin: 5px;
     border: solid;
+    border-width: 2px;
     border-radius: 10px;
-    border-color: #102d58;
+    border-color: #014a74;
 }
 
 .allcode{
-    background-color: #535353;
+    background-color: #474747;
 }
 .youtube{
-    background-color: #cd201f;
+    background-color: #e21717;
 }
 .instagram{
-    background-color: #e4405f;
+    background-color: #eb2f52;
 }
 .telegram{
-    background-color: #0072a7;
+    background-color: #0083c0;
 }
 .group{
-    background-color: #0072a7;
+    background-color: #0082be;
 }
 .whatsapp{
-    background-color: #29bb30;
+    background-color: #1e9b24;
 }
 .discord{
     background-color: #3e71dd;

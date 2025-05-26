@@ -31,7 +31,6 @@ function copyCode(code) {
                 </div>
                      <div class="mapcode">
                         <button onclick="copyCode('${assetCode}')" id="one">Asset Code<img src="image/copy1.png" alt="" width="15px"></button>
-                        <button onclick="copyCode('${mapCode2}')" id="two">Other<img src="image/copy1.png" alt="" width="15px"></button>
                      </div>
           </div>
                   
@@ -42,6 +41,8 @@ function copyCode(code) {
                   </div>
      </div>
     `;
+
+    // <button onclick="copyCode('${mapCode2}')" id="two">Other<img src="image/copy1.png" alt="" width="15px"></button>
 
     container.innerHTML += postHTML;
 }
