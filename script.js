@@ -30,12 +30,12 @@ function copyCode(code) {
                      </div>
                     </div>
                 </div>
-                     <div class="mapcode">
-                        <button onclick="copyCode('${mapCode1}')" id="one">&#x1F1EE;&#x1F1F3;Code<img src="image/copy1.png" alt="" width="15px"></button>
-                        <button onclick="copyCode('${mapCode2}')" id="two">Other<img src="image/copy1.png" alt="" width="15px"></button>
-                     </div>
+                    <div class="mapcode">
+                        <button onclick="copyCode('${mapCode1}')" id="one">🇮🇳 Code</button>
+                        <button onclick="copyCode('${mapCode2}')" id="two">Other Code</button>
+                        </div>
           </div>
-                  
+          
          <div class="body">
             <p class="playerName">by ${playerName}</p>
                      <p>${description}</p>

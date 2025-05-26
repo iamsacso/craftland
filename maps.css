@@ -20,15 +20,16 @@
     margin-bottom: 10px;
     display: block;
     border-bottom: solid;
-    border-color: rgb(6, 69, 99);
+    border-color: rgb(0, 85, 124);
     border-radius: 10px;
     background: rgb(228, 235, 235);
 }
 
 .mapcode{
-    display: flex;
     text-align: center;
     align-items: center;
+    display: grid;
+    gap: 5px;
     justify-content: space-between;
 }
 
@@ -57,11 +58,11 @@
 }
 .q p{
     color: rgb(119, 119, 119);
+    text-align: left;
 }
 
 .mapcode button{
     margin-left: 5px;
-    
 }
 
 .body p{

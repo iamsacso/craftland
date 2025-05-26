@@ -12,7 +12,7 @@
 }
 
 .map-post{
-    width: 280px;
+    width: 285px;
     height: auto;
     padding: 15px;
     margin: auto;
@@ -20,14 +20,16 @@
     margin-bottom: 10px;
     display: block;
     border-bottom: solid;
+    border-color: rgb(0, 85, 124);
     border-radius: 10px;
     background: rgb(228, 235, 235);
 }
 
 .mapcode{
-    display: flex;
     text-align: center;
     align-items: center;
+    display: grid;
+    gap: 5px;
     justify-content: space-between;
 }
 
