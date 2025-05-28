@@ -74,8 +74,22 @@
   justify-content: center; /* horizontal center */
   align-items: center;     /* vertical center */
   text-align: center;
+  background-color: #ffffff;
+  padding-bottom: 5px;
 }
 
 footer {
     text-align: center;
+}
+
+.stickyBar {
+    position: sticky;
+      top: 0;
+      left: 0;
+      right: 0;
+}
+
+#searchInput {
+    background: #ffffff;
+    padding-bottom: 5px;
 }
