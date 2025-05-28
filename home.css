@@ -1,5 +1,5 @@
 .content{
-    height: 767px;
+    height: auto;
     position: relative;
 }
 
@@ -104,4 +104,8 @@ li{
 .exploreMaps P {
     font-size: small;
     color: #dddddd;
+}
+
+.site-footer {
+
 }

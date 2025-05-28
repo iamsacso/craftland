@@ -91,4 +91,11 @@ footer {
 #searchInput {
     background: #ffffff;
     padding-bottom: 5px;
+    padding: 5px;
+}
+
+.sacsoLogo {
+    height: 100px;
+    display: block;
+    margin: auto;
 }
