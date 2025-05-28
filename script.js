@@ -56,6 +56,46 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Water Party",
+   date: "28 May 2025",
+   playerName: "Giant Gamer(Nobita)",
+   description: "2 Player, Water Kingdom winners map.",
+   imageUrl: "image/waterparty.jpg",
+   youtubeLink: "https://youtu.be/LxOUGm7vn-A",
+   mapCode1: "#FREEFIRE20B63707BA10E821FA1B975717132C604863",
+   mapCode2: "Not available",
+   profileImg: "image/giantgamer123.png",
+   profileLink: "https://youtube.com/@giantgamer123"
+ });
+
+
+createMapPost({
+   mapName: "Bike Race 2D",
+   date: "22 May 2025",
+   playerName: "SacSo",
+   description: "2 Player 2000m bike race.",
+   imageUrl: "image/bikerace2d.jpg",
+   youtubeLink: "https://youtu.be/RnSdAvSefyk",
+   mapCode1: "#FREEFIREA87AD61A5E8FE9E5327C4F360AB540239672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
+   mapName: "Water Party 2D",
+   date: "22 May 2025",
+   playerName: "SacSo",
+   description: "2 Player, Water Kingdom winners map",
+   imageUrl: "image/water2d.jpg",
+   youtubeLink: "https://youtu.be/RnSdAvSefyk",
+   mapCode1: "#FREEFIRE5CED8E1FFA2BDD2AFA5E5BF1C164AEC69672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
    mapName: "Beastmode Bermuda",
    date: "24 May 2025",
    playerName: "Guide Gamer",
@@ -281,7 +321,7 @@ createMapPost({
   date: "3 May 2025",
   playerName: "Thunder Sharma",
   description: "2D map, hardest mode",
-  imageUrl: "image/2dmap.webp",
+  imageUrl: "image/relexquest.jpg",
   youtubeLink: "https://youtu.be/FmIA6sfprnU",
   mapCode1: "#FREEFIREFAB404CF91508EA15DD57FDF52C2DB278212",
   mapCode2: "#FREEFIREED8385671C9ABA5038DBDD483239CD314529",
