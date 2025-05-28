@@ -71,7 +71,7 @@ createMapPost({
 
 createMapPost({
    mapName: "Bike Race 2D",
-   date: "22 May 2025",
+   date: "28 May 2025",
    playerName: "SacSo",
    description: "2 Player 2000m bike race.",
    imageUrl: "image/bikerace2d.jpg",
@@ -84,7 +84,7 @@ createMapPost({
 
 createMapPost({
    mapName: "Water Party 2D",
-   date: "22 May 2025",
+   date: "28 May 2025",
    playerName: "SacSo",
    description: "2 Player, Water Kingdom winners map",
    imageUrl: "image/water2d.jpg",
