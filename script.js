@@ -56,7 +56,7 @@ function copyCode(code) {
 }
 
 createMapPost({
-   mapName: "Water Party",
+   mapName: "Water Park",
    date: "28 May 2025",
    playerName: "Giant Gamer(Nobita)",
    description: "2 Player, Water Kingdom winners map.",
