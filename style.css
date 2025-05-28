@@ -42,9 +42,7 @@
 
 .content{
     background-color: rgb(255, 255, 255);
-    /* height: 755px; */
     width: auto;
-    /* padding: 10px; */
 }
 
 .footer{
@@ -87,6 +85,7 @@ footer {
       top: 0;
       left: 0;
       right: 0;
+      box-shadow: 0px -2px 20px rgba(0, 0, 0, 0.3);
 }
 
 #searchInput {
