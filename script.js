@@ -342,6 +342,18 @@ createMapPost({
   profileLink: "https://youtube.com/@iamsacso"
 });
 
+
+createMapPost({
+  mapName: "All in One",
+  date: "Oct 2024",
+  playerName: "total gaming",
+  description: "All outfit and many features",
+  imageUrl: "image/allinone.webp",
+  youtubeLink: "https://youtu.be/Sc2LCsblfgg",
+  mapCode1: "#FREEFIREBC3C61F91526508CB1E9511197351A569672",
+  mapCode2: "Not Available",
+  profileImg: "image/SACSO.png",
+  profileLink: "https://youtu.be/-LUMN0AMIvo?si=SnRO_eb_Z0Xwd-g4"
 function filterMaps() {
   const input = document.getElementById("searchInput").value.toLowerCase();
   const posts = document.querySelectorAll(".map-post");
