@@ -56,6 +56,58 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Sahur on Peak",
+   date: "11 June 2025",
+   playerName: "phuindia1",
+   description: "the Sahur has risen, the war between Sahur and humans, Who can survie until the end.",
+   imageUrl: "image/sahuronpeak.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE2E977ECC302569D6E4058AF3B03FF3D72021",
+   mapCode2: "#FREEFIREF5DCC41A126B1CC2379873B6091CC21A9684",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createMapPost({
+   mapName: "A-maze-ing Brainrot",
+   date: "11 June 2025",
+   playerName: "phuindia1",
+   description: "do whatever it takes to survive!",
+   imageUrl: "image/amazeingbrainrot.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE11A015F9FF210DE6DC24E5B1FA2AC13E2021",
+   mapCode2: "#FREEFIREED01BF7C9C9FEC1C00335FC6D22080B95082",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createMapPost({
+   mapName: "Block Puzzle",
+   date: "11 June 2025",
+   playerName: "Joy5b0x7H6o",
+   description: "Match and clear as many colored blocks as possible on the board.",
+   imageUrl: "image/blockpuzzle.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIREB8016BDDF720AA1EBCB1483C073697047490",
+   mapCode2: "#FREEFIREEB1BBB953C018C72F1609925407CA2B94913",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
+   mapName: "Marble Racer",
+   date: "11 June 2025",
+   playerName: "Joy5b0x7H6o",
+   description: "Select your lucky marble",
+   imageUrl: "image/marbleracer.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE59E22AEB1419032ED9A921C70F573D4E7490",
+   mapCode2: "#FREEFIRE921C0BA68EB4F88EA0EA2DE1A94B8F6E4913",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
    mapName: "Water Park",
    date: "28 May 2025",
    playerName: "Giant Gamer(Nobita)",
