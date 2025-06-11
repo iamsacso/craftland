@@ -58,8 +58,8 @@ function copyCode(code) {
 createMapPost({
    mapName: "Sahur on Peak",
    date: "11 June 2025",
-   playerName: "phuindia1",
-   description: "the Sahur has risen, the war between Sahur and humans, Who can survie until the end.",
+   playerName: "Craftland Team",
+   description: "the Sahur has risen, the war between Sahur and humans, Who can survie until the end. Craftland Official Map.",
    imageUrl: "image/sahuronpeak.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE2E977ECC302569D6E4058AF3B03FF3D72021",
@@ -71,8 +71,8 @@ createMapPost({
  createMapPost({
    mapName: "A-maze-ing Brainrot",
    date: "11 June 2025",
-   playerName: "phuindia1",
-   description: "do whatever it takes to survive!",
+   playerName: "Craftland Team",
+   description: "do whatever it takes to survive! Craftland Official Map.",
    imageUrl: "image/amazeingbrainrot.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE11A015F9FF210DE6DC24E5B1FA2AC13E2021",
@@ -84,8 +84,8 @@ createMapPost({
  createMapPost({
    mapName: "Block Puzzle",
    date: "11 June 2025",
-   playerName: "Joy5b0x7H6o",
-   description: "Match and clear as many colored blocks as possible on the board.",
+   playerName: "Craftland Team",
+   description: "Match and clear as many colored blocks as possible on the board. Craftland Official Map.",
    imageUrl: "image/blockpuzzle.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIREB8016BDDF720AA1EBCB1483C073697047490",
@@ -97,8 +97,8 @@ createMapPost({
 createMapPost({
    mapName: "Marble Racer",
    date: "11 June 2025",
-   playerName: "Joy5b0x7H6o",
-   description: "Select your lucky marble",
+   playerName: "Craftland Team",
+   description: "Select your lucky marble. Craftland Official Map.",
    imageUrl: "image/marbleracer.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE59E22AEB1419032ED9A921C70F573D4E7490",
