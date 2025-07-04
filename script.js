@@ -58,7 +58,7 @@ function copyCode(code) {
 createMapPost({
    mapName: "Rope Jump",
    date: "4 July 2025",
-   playerName: "Prince x SacSo",
+   playerName: "The Prince Gamer x SacSo",
    description: "Squid game season 3 jump rope game",
    imageUrl: "image/pxsjumprope.jpg",
    youtubeLink: "videoLink",
