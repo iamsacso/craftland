@@ -120,7 +120,47 @@ createMapPost({
    profileLink: "https://youtube.com/@infinityffgamer322"
  });
 
-createMapPost({
+ createMapPost({
+   mapName: "Old Peak solo",
+   date: "4 July 2025",
+   playerName: "Craftland Team",
+   description: "",
+   imageUrl: "image/8thanniversaryoldpeaksolo.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE1A2CF708E511D10B73D1E7086441DCCF7490",
+   mapCode2: "Not available",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+  createMapPost({
+   mapName: "Old Peak Duo",
+   date: "4 July 2025",
+   playerName: "Craftland Team",
+   description: "",
+   imageUrl: "image/8thanniversaryoldpeakduo.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE4575D01EB228BA88B3A016D0E1F140157490",
+   mapCode2: "Not available",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createMapPost({
+   mapName: "Parkour",
+   date: "4 July 2025",
+   playerName: "Craftland Team",
+   description: "8th anniversary parkour",
+   imageUrl: "image/8thanniversaryparkour.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE67B7F58F7A555DD1A7718560D78B965E7490",
+   mapCode2: "Not available",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+
+ createMapPost({
    mapName: "Brainrot on Peak",
    date: "4 July 2025",
    playerName: "Craftland Team",
@@ -133,18 +173,6 @@ createMapPost({
    profileLink: "https://youtube.com/@iamsacso"
  });
 
- createMapPost({
-   mapName: "Old Peak solo",
-   date: "4 July 2025",
-   playerName: "Craftland Team",
-   description: "",
-   imageUrl: "image/8thanniversaryoldpeaksolo.jpg",
-   youtubeLink: "videoLink",
-   mapCode1: "#FREEFIRE1A2CF708E511D10B73D1E7086441DCCF7490",
-   mapCode2: "Not available",
-   profileImg: "image/8thanniversaryoldpeaksolo.png",
-   profileLink: "https://youtube.com/@iamsacso"
- });
 
  createMapPost({
    mapName: "A-maze-ing Brainrot",
