@@ -6,9 +6,9 @@ createMapPost({
    imageUrl: "image/.jpg",
    youtubeLink: "videoLink",
    mapCode1: "IndCode",
-   mapCode2: "OthrCode",
+   mapCode2: "Not available",
    profileImg: "image/.png",
-   profileLink: "https://youtube.com/@username"
+   profileLink: "https://youtube.com/@iamsacso"
  });
 
  createAssetPost({

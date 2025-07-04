@@ -56,15 +56,93 @@ function copyCode(code) {
 }
 
 createMapPost({
-   mapName: "Sahur on Peak",
-   date: "11 June 2025",
+   mapName: "Rope Jump",
+   date: "4 July 2025",
+   playerName: "Prince x SacSo",
+   description: "Squid game season 3 jump rope game",
+   imageUrl: "image/pxsjumprope.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE54A35C1EF8BEC8F5AC5AE5EA8FCC39081060",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
+   mapName: "Big Character",
+   date: "4 July 2025",
+   playerName: "Grandmixture Gamer",
+   description: "you can transform into big character & more",
+   imageUrl: "image/bigcharactergmg.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIREC796EFC060D174934208C19FA599AA2E7747",
+   mapCode2: "#FREEFIRED0BA9675CE2DC3B0306C8714FE739B6A9380",
+   profileImg: "image/grandmixture.png",
+   profileLink: "https://youtube.com/@GMG20099"
+ });
+
+createMapPost({
+   mapName: "Last Hope Earth",
+   date: "4 July 2025",
+   playerName: "Map Master Krishna",
+   description: "Sahur attack on earth",
+   imageUrl: "image/lasthopeearth.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE1854CFD30EB018DCB39C6AC62B55D2B34259",
+   mapCode2: "Not available",
+   profileImg: "image/mapmasterkrishna.png",
+   profileLink: "https://youtube.com/@mapmasterkrishna"
+ });
+
+createMapPost({
+   mapName: "4 Island City",
+   date: "3 July 2025",
+   playerName: "Infinity FF Gamer",
+   description: "Single player map",
+   imageUrl: "image/4islandcity4player.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE9FFC1D36E626DF3A012B2FB6C3A6E6614946",
+   mapCode2: "Not available",
+   profileImg: "image/infinityffgamer.png",
+   profileLink: "https://youtube.com/@infinityffgamer322"
+ });
+
+ createMapPost({
+   mapName: "4 Island City",
+   date: "3 July 2025",
+   playerName: "Infinity FF Gamer",
+   description: "4 Player Map",
+   imageUrl: "image/4islandcitysolo.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIREEDD882EE17B8FBD11DB999B895690E214946",
+   mapCode2: "Not available",
+   profileImg: "image/infinityffgamer.png",
+   profileLink: "https://youtube.com/@infinityffgamer322"
+ });
+
+createMapPost({
+   mapName: "Brainrot on Peak",
+   date: "4 July 2025",
    playerName: "Craftland Team",
    description: "the Sahur has risen, the war between Sahur and humans, Who can survie until the end. Craftland Official Map.",
-   imageUrl: "image/sahuronpeak.jpg",
+   imageUrl: "image/brainrotonpeak.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE2E977ECC302569D6E4058AF3B03FF3D72021",
    mapCode2: "#FREEFIREF5DCC41A126B1CC2379873B6091CC21A9684",
    profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createMapPost({
+   mapName: "Old Peak solo",
+   date: "4 July 2025",
+   playerName: "Craftland Team",
+   description: "",
+   imageUrl: "image/8thanniversaryoldpeaksolo.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE1A2CF708E511D10B73D1E7086441DCCF7490",
+   mapCode2: "Not available",
+   profileImg: "image/8thanniversaryoldpeaksolo.png",
    profileLink: "https://youtube.com/@iamsacso"
  });
 
