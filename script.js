@@ -128,7 +128,7 @@ createMapPost({
    imageUrl: "image/8thanniversaryoldpeaksolo.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE1A2CF708E511D10B73D1E7086441DCCF7490",
-   mapCode2: "Not available",
+   mapCode2: "#FREEFIRE51E5058FA66708BE83E4D45E8159BB8B4913",
    profileImg: "image/officialprofile.png",
    profileLink: "https://youtube.com/@iamsacso"
  });
@@ -141,7 +141,7 @@ createMapPost({
    imageUrl: "image/8thanniversaryoldpeakduo.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE4575D01EB228BA88B3A016D0E1F140157490",
-   mapCode2: "Not available",
+   mapCode2: "#FREEFIREBCC7BD1177D0C0DFBCD3DC55E0FD45A54913",
    profileImg: "image/officialprofile.png",
    profileLink: "https://youtube.com/@iamsacso"
  });
@@ -154,7 +154,7 @@ createMapPost({
    imageUrl: "image/8thanniversaryparkour.jpg",
    youtubeLink: "videoLink",
    mapCode1: "#FREEFIRE67B7F58F7A555DD1A7718560D78B965E7490",
-   mapCode2: "Not available",
+   mapCode2: "#FREEFIRE3116C49CF13696503070B0C41140F8614913",
    profileImg: "image/officialprofile.png",
    profileLink: "https://youtube.com/@iamsacso"
  });
