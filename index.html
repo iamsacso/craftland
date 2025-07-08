@@ -104,44 +104,7 @@
   </div>
 </footer>
 
-<div id="visitCounter">Visitors: loading...</div>
-
-  <!-- Firebase SDKs -->
-  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-database-compat.js"></script>
-
-  <script>
-    // ✅ Your Firebase Config
-    const firebaseConfig = {
-      apiKey: "AIzaSyDAbNFn9hc6Yw403XX-lE7StDqqQvAwR7s",
-      authDomain: "sacsolike.firebaseapp.com",
-      projectId: "sacsolike",
-      storageBucket: "sacsolike.firebasestorage.app",
-      messagingSenderId: "22929490403",
-      appId: "1:22929490403:web:5a9a1c89b98c7c76b560d6",
-      measurementId: "G-694TNY8CQZ",
-      databaseURL: "https://sacsolike-default-rtdb.firebaseio.com/" // ✅ Add this line
-    };
-
-    // ✅ Initialize Firebase
-    firebase.initializeApp(firebaseConfig);
-    const db = firebase.database();
-
-    function countVisit() {
-      const ref = db.ref("pageVisits/home"); // You can change 'home' to any page ID
-      ref.transaction((count) => {
-        return (count || 0) + 1;
-      });
-
-      ref.on("value", (snapshot) => {
-        const count = snapshot.val() || 0;
-        document.getElementById("visitCounter").innerText = "Visitors: " + count;
-      });
-    }
-
-    window.onload = countVisit;
-  </script>
-
+    
     <div class="footer">
         <img src="image/Craftland.png" alt="Craftland">
     </div>
