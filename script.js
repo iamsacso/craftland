@@ -56,6 +56,45 @@ function copyCode(code) {
 }
 
 createMapPost({
+   mapName: "Tap The Pattern",
+   date: "8 July 2015",
+   playerName: "SacSo",
+   description: "remember the sequence and gain 190 score",
+   imageUrl: "image/tapthepattern.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE8128A6B8133A9490EACFB71C61552D639672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+createMapPost({
+   mapName: "Minecraft",
+   date: "8 July 2015",
+   playerName: "cyber_pritam",
+   description: "minecraft mode in freefire by cyber pritam",
+   imageUrl: "image/minecraftbypritam.jpg",
+   youtubeLink: "https://youtube.com/shorts/CYeNT4J74HE",
+   mapCode1: "#FREEFIRE42344FAC7DAD0CA9101B3433478C02152959",
+   mapCode2: "Not available",
+   profileImg: "image/cyberpritam.png",
+   profileLink: "https://youtube.com/@cyber_pritam"
+ });
+
+ createMapPost({
+   mapName: "VSG Squid Game 3",
+   date: "8 July 2015",
+   playerName: "VIP Gamer",
+   description: "Squid game season 3 mode in freefire by vip gamer & grandmixture gamer",
+   imageUrl: "image/vsgsquidgame3.png",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE23B280752025D821479054F407EFE7335262",
+   mapCode2: "Not available",
+   profileImg: "image/vipgamer.png",
+   profileLink: "https://youtube.com/@SHARMAGAMING29"
+ });
+
+createMapPost({
    mapName: "Rope Jump",
    date: "4 July 2025",
    playerName: "The Prince Gamer x SacSo",
