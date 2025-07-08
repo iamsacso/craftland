@@ -99,3 +99,15 @@ footer {
     display: block;
     margin: auto;
 }
+
+#visitCounter {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  z-index: 999;
+}
