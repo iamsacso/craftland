@@ -57,7 +57,7 @@ function copyCode(code) {
 
 createMapPost({
    mapName: "Tap The Pattern",
-   date: "8 July 2015",
+   date: "8 July 2025",
    playerName: "SacSo",
    description: "remember the sequence and gain 190 score",
    imageUrl: "image/tapthepattern.jpg",
@@ -70,7 +70,7 @@ createMapPost({
 
 createMapPost({
    mapName: "Minecraft",
-   date: "8 July 2015",
+   date: "8 July 2025",
    playerName: "cyber_pritam",
    description: "minecraft mode in freefire by cyber pritam",
    imageUrl: "image/minecraftbypritam.jpg",
@@ -83,7 +83,7 @@ createMapPost({
 
  createMapPost({
    mapName: "VSG Squid Game 3",
-   date: "8 July 2015",
+   date: "8 July 2025",
    playerName: "VIP Gamer",
    description: "Squid game season 3 mode in freefire by vip gamer & grandmixture gamer",
    imageUrl: "image/vsgsquidgame3.png",
