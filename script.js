@@ -55,6 +55,32 @@ function copyCode(code) {
     container.innerHTML += postHTML;
 }
 
+ createMapPost({
+   mapName: "King of Challenges",
+   date: "10 July 2025",
+   playerName: "Craftland Team",
+   description: "Triumph the challenges to be the last one to survive",
+   imageUrl: "image/kingofchallanges.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRE8BF9D073B9DE1C26AF632112B3606D5D7490",
+   mapCode2: "#FREEFIREE079A8C0C20AC212EF09907B3E2103B94913",
+   profileImg: "image/officialprofile.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
+ createMapPost({
+   mapName: "Break Run",
+   date: "10 July 2025",
+   playerName: "SacSo",
+   description: "",
+   imageUrl: "image/breakrun.jpg",
+   youtubeLink: "videoLink",
+   mapCode1: "#FREEFIRED72D55C53CF0309D7F6307110FE64A149672",
+   mapCode2: "Not available",
+   profileImg: "image/SACSO.png",
+   profileLink: "https://youtube.com/@iamsacso"
+ });
+
 createMapPost({
    mapName: "Tap The Pattern",
    date: "8 July 2025",
